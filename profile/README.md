@@ -1,6 +1,6 @@
 # Hello, this is Spinal! 👋
 
-Minimal and beautiful CMS for static sites generators.
+Minimal and beautiful CMS for static sites generators. Designed for content marketing teams.
 
 ![Screenshot of the contents list in Spinal](https://user-images.githubusercontent.com/988051/173890772-0a807862-c75c-4de8-a812-e98c82c19af0.jpg)
 
@@ -9,6 +9,7 @@ Minimal and beautiful CMS for static sites generators.
 - Web UI to write and edit your content
 - Preview your markdown
 - Collaborate with your team
+- Scheduling, automatically publish content
 - Lock editing
 - Add permissions for every collaborator
 
