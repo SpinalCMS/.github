@@ -2,7 +2,7 @@
 
 Minimal and beautiful CMS for static sites generators. Designed for content marketing teams.
 
-<img src="https://github.com/spinalcms/.github/blob/main/gh-screen.jpg?raw=true" alt="screenshot of the contents overview in Spinal" />
+<img src="https://github.com/spinalcms/.github/blob/main/profile/gh-screen.jpg?raw=true" alt="screenshot of the contents overview in Spinal" />
 
 ## Some of the features of Spinal CMS
 
