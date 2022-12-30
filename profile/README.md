@@ -2,15 +2,14 @@
 
 Minimal and beautiful CMS for static sites generators. Designed for content marketing teams.
 
-![Screenshot of the contents list in Spinal](https://user-images.githubusercontent.com/988051/173890772-0a807862-c75c-4de8-a812-e98c82c19af0.jpg)
+<img src="https://github.com/spinalcms/.github/blob/main/gh-screen.jpg?raw=true" alt="screenshot of the contents overview in Spinal" />
 
 ## Some of the features of Spinal CMS
 
-- Web UI to write and edit your content
-- Preview your markdown
-- Collaborate with your team
-- Scheduling, automatically publish content
-- Lock editing
-- Add permissions for every collaborator
+- Git-based, so no tedious set up or maintenance
+- Beautiful and minimal WYSIWYG-editor
+- Flat-pricing, so you can invite your whole team
+- Schedule all your static site's content, so it's published automatically
+- Lock editing and fine-grained permissions per member
 
 Spinal is **free** to get started. Learn more at [spinalcms.com](https://spinalcms.com/).
