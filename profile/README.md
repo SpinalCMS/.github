@@ -15,4 +15,4 @@ Spinal was born in a SaaS company. And now helps many SaaS companies around the 
 - View all published and scheduled content in a calendar view
 - Set up fine-grained permissions and access per member
 
-Try Spinal 7 days for free. Learn more at [spinalcms.com](https://spinalcms.com/).
+Try Spinal 5 days for free. Learn more at [spinalcms.com](https://spinalcms.com/).
