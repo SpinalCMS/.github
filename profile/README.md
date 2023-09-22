@@ -10,9 +10,12 @@ Spinal was born in a SaaS company. And now helps many SaaS companies around the 
 
 - Git-based, so no tedious set up or maintenance
 - Beautiful, minimal, yet powerful WYSIWYG-editor (that transforms to markdown for you)
-- Flat, monthly pricing, so you can invite your whole team (no Git knowledge required)
+- Flat, monthly pricing, so you can invite your entire team (no Git knowledge required!)
 - Schedule all your static site's content, so it's published automatically
-- View all published and scheduled content in a calendar view
+- Get a birds-eye view of all content in progress with a Kanban-like board
+- View all published and scheduled content in the calendar
+- Group content by certain frontmatter values (so you can mimic youy static site)
+- Powerful search lets you find content between various Content Type's (try CMD+K)
 - Set up fine-grained permissions and access per member
 - Many customisation options to make Spinal truly yours
 
